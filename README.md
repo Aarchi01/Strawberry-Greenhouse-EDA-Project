@@ -74,6 +74,13 @@ It thrives at **18°C–30°C** combined with **60–90% relative humidity** and
 
 ---
 
+## 📊 Key findings
+
+- Greenhouse humidity averaged 70.2%, comfortably within the ideal 60–80% range for strawberries
+- Temperature and humidity showed a moderate positive correlation (0.52) — warmer air holds more moisture
+- Humidity and infrared temperature showed a weak negative correlation (-0.31) — higher humidity cools leaf surfaces
+- Air temperature and leaf surface temperature were nearly uncorrelated (-0.037), suggesting leaf temperature is driven more by direct solar exposure than ambient air
+
 ## 🛠 Tools & libraries
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
